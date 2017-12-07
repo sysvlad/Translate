@@ -1,0 +1,15 @@
+PODS:
+  - FittableFontLabel (1.4.0)
+  - ROGoogleTranslate (0.0.5)
+
+DEPENDENCIES:
+  - FittableFontLabel
+  - ROGoogleTranslate
+
+SPEC CHECKSUMS:
+  FittableFontLabel: 20502441e83bb41eb8b41611cca91af85c4e21e3
+  ROGoogleTranslate: 344d579487c21af1ae54138baa68605b861ba84e
+
+PODFILE CHECKSUM: 7ca62ada3efe645e8058854643757431933f0bf8
+
+COCOAPODS: 1.2.0
